@@ -1,0 +1,33 @@
+.calculator{
+    margin-top: 40px;
+}
+
+.symbol{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+
+.result{
+    background-color: rgb(156, 156, 156);
+    height: 70px;
+}
+
+p{
+    color: white;
+    font-size: 50px;
+}
+
+.button{
+    height: 60px;
+    padding-top: 10px;
+    background-color: rgb(236, 236, 236);
+    font-size: larger;
+    border: 1px solid rgb(206, 206, 206);
+}
+
+.row{
+    width: 700px;
+}
